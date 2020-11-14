@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/pizzahuntwebsite/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/pizzahuntwebsite/static/js/main.55aaacd0.chunk.js",
+    "main.js.map": "/pizzahuntwebsite/static/js/main.55aaacd0.chunk.js.map",
+    "runtime-main.js": "/pizzahuntwebsite/static/js/runtime-main.03f6b918.js",
+    "runtime-main.js.map": "/pizzahuntwebsite/static/js/runtime-main.03f6b918.js.map",
+    "static/js/2.105c162b.chunk.js": "/pizzahuntwebsite/static/js/2.105c162b.chunk.js",
+    "static/js/2.105c162b.chunk.js.map": "/pizzahuntwebsite/static/js/2.105c162b.chunk.js.map",
+    "static/js/3.c671b6d2.chunk.js": "/pizzahuntwebsite/static/js/3.c671b6d2.chunk.js",
+    "static/js/3.c671b6d2.chunk.js.map": "/pizzahuntwebsite/static/js/3.c671b6d2.chunk.js.map",
+    "index.html": "/pizzahuntwebsite/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/pizzahuntwebsite/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.105c162b.chunk.js.LICENSE.txt": "/pizzahuntwebsite/static/js/2.105c162b.chunk.js.LICENSE.txt",
+    "static/media/featured3.66d68644.jpg": "/pizzahuntwebsite/static/media/featured3.66d68644.jpg",
+    "static/media/pizza-3.f2f9b9a4.jpg": "/pizzahuntwebsite/static/media/pizza-3.f2f9b9a4.jpg",
+    "static/media/product-1.36d084f3.jpg": "/pizzahuntwebsite/static/media/product-1.36d084f3.jpg",
+    "static/media/product-2.4c066971.jpg": "/pizzahuntwebsite/static/media/product-2.4c066971.jpg",
+    "static/media/product-3.115cc32b.jpg": "/pizzahuntwebsite/static/media/product-3.115cc32b.jpg",
+    "static/media/sweet-2.d5cf1ad2.jpg": "/pizzahuntwebsite/static/media/sweet-2.d5cf1ad2.jpg",
+    "static/media/sweet-3.badeecbe.jpg": "/pizzahuntwebsite/static/media/sweet-3.badeecbe.jpg",
+    "static/media/sweet3.c495c742.jpg": "/pizzahuntwebsite/static/media/sweet3.c495c742.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03f6b918.js",
+    "static/js/2.105c162b.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.55aaacd0.chunk.js"
+  ]
+}
